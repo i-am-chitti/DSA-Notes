@@ -1,3 +1,3 @@
 # DSA Notes
 
-## [Queue](./Qeueue/Queue.md)
+## [Queue](./Queue/Queue.md)
