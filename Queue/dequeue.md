@@ -17,7 +17,7 @@ All these are performed in O(1).
 
 ### Applications
 
-1. Used can both stack and queue
+1. Can be used as both stack and queue
 2. It supports clockwise and anticlockwise operations in O(1) time which can be useful in certain applications
 3. The problems where elements need to be removed and or added to both ends can be efficiently solved using Deque. For example see the Maximum of all subarrays of size k problem., 0-1 BFS, and Find the first circular tour that visits all petrol pumps
 4. Storing a web browser's history - recently visited URLs are added to the front of the deque and the URL at the back of the deque is removed after some specified number of operations of insertions at the front.
